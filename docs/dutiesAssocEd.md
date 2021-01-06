@@ -1,4 +1,4 @@
-ASE Journal Associate Editor Duties
+# ASE Journal Associate Editor Duties
 
 As per: https://www.springer.com/gp/authors-editors/editors/editorial-boards/32688
 
