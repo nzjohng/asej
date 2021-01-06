@@ -12,7 +12,7 @@ Key duties include:
   - Inform the AE promptly if have a conflict of interest or otherwise unable to review assigned article
 2. A few times a year, be willing to quickly perform high priority reviews (in  one to two weeks)
 3. Solicit High Quality Manuscripts for the journal
-   0 From networks, identify potential authors and encourage to submit to ASE journal
+   -  From networks, identify potential authors and encourage to submit to ASE journal
 4. Respond in timely manner to EIC request for input on journal scope, direction, policies, new ideas etc
 5. Recommend members for Review Board from community
 6, Potentially become an Associate Editor on EIC request
